@@ -43,6 +43,7 @@
 - Kim, Junhong, et al. "Bin2Vec: A better wafer bin map coloring scheme for comprehensible visualization and effective bad wafer classification." *Applied Sciences* 9.3 (2019): 597.
 - Santos, Tiago, et al. "Feature extraction from analog wafermaps: A comparison of classical image processing and a deep generative model." *IEEE Transactions on Semiconductor Manufacturing* 32.2 (2019): 190-198.
 - Yu, Naigong, Qiao Xu, and Honglu Wang. "Wafer defect pattern recognition and analysis based on convolutional neural network." *IEEE Transactions on Semiconductor Manufacturing* 32.4 (2019): 566-573.
+- Lee, C. H., and S. B. Kim. "Identifying wafer defect patterns by variational autoencoder and SegNet." Journal of the Korean Institute of Industrial Engineers 45.2 (2019): 117-124.
 
 
 
