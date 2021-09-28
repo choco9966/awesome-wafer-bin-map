@@ -66,7 +66,7 @@
 
 
 ## [Segmentation]
-
+- Lee, C. H., and S. B. Kim. "Identifying wafer defect patterns by variational autoencoder and SegNet." Journal of the Korean Institute of Industrial Engineers 45.2 (2019): 117-124.
 - T. Nakazawa and D. V. Kulkarni, “Anomaly detection and segmentation for wafer defect patterns using deep convolutional encoder-decoder neural network architectures in semiconductor manufacturing,” IEEE Transactions on Semiconductor Manufacturing, vol. 32, pp. 250–256, 5 2019.
 - Kong, Yuting, and Dong Ni. "Recognition and location of mixed-type patterns in wafer bin maps." 2019 IEEE International Conference on Smart Manufacturing, Industrial & Logistics Engineering (SMILE). IEEE, 2019.
 - Y. Kong and D. Ni, “Qualitative and quantitative analysis of multi-pattern wafer bin maps,” IEEE Transactions on Semiconductor Manufacturing, vol. 33, pp. 578–586, 9 2020.
