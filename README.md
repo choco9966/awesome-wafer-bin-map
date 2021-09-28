@@ -22,6 +22,13 @@
 - Hyun, Yunseung, and Heeyoung Kim. "Memory-augmented convolutional neural networks with triplet loss for imbalanced wafer defect pattern classification." IEEE Transactions on Semiconductor Manufacturing 33.4 (2020): 622-634. 
 - Wang, Junliang, et al. "Deformable convolutional networks for efficient mixed-type wafer defect pattern recognition." IEEE Transactions on Semiconductor Manufacturing 33.4 (2020): 587-596. 
 - Kang, Seokho. "Rotation-Invariant Wafer Map Pattern Classification With Convolutional Neural Networks." Ieee Access 8 (2020): 170650-170658.
+- Saqlain, Muhammad, Qasim Abbas, and Jong Yun Lee. "A deep convolutional neural network for wafer defect identification on an imbalanced dataset in semiconductor manufacturing processes." *IEEE Transactions on Semiconductor Manufacturing* 33.3 (2020): 436-444.
+- Tsai, Tsung-Han, and Yu-Chen Lee. "A light-weight neural network for wafer map classification based on data augmentation." *IEEE Transactions on Semiconductor Manufacturing* 33.4 (2020): 663-672.
+- Shim, Jaewoong, Seokho Kang, and Sungzoon Cho. "Active learning of convolutional neural network for cost-effective wafer map pattern classification." *IEEE Transactions on Semiconductor Manufacturing* 33.2 (2020): 258-266.
+- Li, Katherine Shu-Min, et al. "Hidden Wafer Scratch Defects Projection for Diagnosis and Quality Enhancement." *IEEE Transactions on Semiconductor Manufacturing* 34.1 (2020): 9-16.
+- Yu, Jianbo, and Jiatong Liu. "Two-dimensional principal component analysis-based convolutional autoencoder for wafer map defect detection." *IEEE Transactions on Industrial Electronics* (2020).
+- Hwang, Jonghyun, and Heeyoung Kim. "Variational deep clustering of wafer map patterns." *IEEE Transactions on Semiconductor Manufacturing* 33.3 (2020): 466-475.
+- Jin, Cheng Hao, et al. "Wafer map defect pattern classification based on convolutional neural network features and error-correcting output codes." *Journal of Intelligent Manufacturing* 31.8 (2020): 1861-1875.
 
 ## [2019]
 
@@ -31,6 +38,11 @@
 - Wang, Yi, and Dong Ni. "Multi-bin wafer maps defect patterns classification." 2019 IEEE International Conference on Smart Manufacturing, Industrial & Logistics Engineering (SMILE). IEEE, 2019.
 - Yu, Jianbo, Xiaoyun Zheng, and Jiatong Liu. "Stacked convolutional sparse denoising auto-encoder for identification of defect patterns in semiconductor wafer map." Computers in Industry 109 (2019): 121-133.
 - Yu, Jianbo. "Enhanced stacked denoising autoencoder-based feature learning for recognition of wafer map defects." IEEE Transactions on Semiconductor Manufacturing 32.4 (2019): 613-624.
+- Saqlain, Muhammad, Bilguun Jargalsaikhan, and Jong Yun Lee. "A voting ensemble classifier for wafer map defect patterns identification in semiconductor manufacturing." *IEEE Transactions on Semiconductor Manufacturing* 32.2 (2019): 171-182.
+- Wang, Junliang, et al. "AdaBalGAN: An improved generative adversarial network with imbalanced learning for wafer defective pattern recognition." *IEEE Transactions on Semiconductor Manufacturing* 32.3 (2019): 310-319.
+- Kim, Junhong, et al. "Bin2Vec: A better wafer bin map coloring scheme for comprehensible visualization and effective bad wafer classification." *Applied Sciences* 9.3 (2019): 597.
+- Santos, Tiago, et al. "Feature extraction from analog wafermaps: A comparison of classical image processing and a deep generative model." *IEEE Transactions on Semiconductor Manufacturing* 32.2 (2019): 190-198.
+- Yu, Naigong, Qiao Xu, and Honglu Wang. "Wafer defect pattern recognition and analysis based on convolutional neural network." *IEEE Transactions on Semiconductor Manufacturing* 32.4 (2019): 566-573.
 
 
 
@@ -39,4 +51,20 @@
 - J. Kim, Y. Lee, and H. Kim, “Detection and clustering of mixed-type defect patterns in wafer bin maps,” IISE Transactions, vol. 50, pp. 99–111, 2 2018.
 - K. Kyeong and H. Kim, “Classification of mixed-type defect patterns in wafer bin maps using convolutional neural networks,” IEEE Transactions on Semiconductor Manufacturing, vol. 31, pp. 395–402, 8 2018
 - Kong, Yuting, and Dong Ni. "Semi-supervised classification of wafer map based on ladder network." 2018 14th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT). IEEE, 2018.
+- Piao, Minghao, et al. "Decision tree ensemble-based wafer map failure pattern recognition based on radon transform-based features." *IEEE Transactions on Semiconductor Manufacturing* 31.2 (2018): 250-257.
+- Tello, Ghalia, et al. "Deep-structured machine learning model for the recognition of mixed-defect patterns in semiconductor fabrication processes." *IEEE Transactions on Semiconductor Manufacturing* 31.2 (2018): 315-322.
+- Wang, Rui, and Nan Chen. "Defect pattern recognition on wafers using convolutional neural networks." *Quality and Reliability Engineering International* 36.4 (2020): 1245-1257.
+- Tulala, Peter, et al. "Unsupervised wafermap patterns clustering via variational autoencoders." *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE, 2018.
+- Nakazawa, Takeshi, and Deepak V. Kulkarni. "Wafer map defect pattern classification and image retrieval using convolutional neural network." *IEEE Transactions on Semiconductor Manufacturing* 31.2 (2018): 309-314.
+
+## [2017]
+
+- Taha, Kamal, Khaled Salah, and Paul D. Yoo. "Clustering the dominant defective patterns in semiconductor wafer maps." *IEEE Transactions on Semiconductor Manufacturing* 31.1 (2017): 156-165.
+- Dong, Hang, Nan Chen, and Kaibo Wang. "Wafer yield prediction using derived spatial variables." *Quality and Reliability Engineering International* 33.8 (2017): 2327-2342.
+
+
+
+## [2016]
+
+- Fan, Mengying, Qin Wang, and Ben van der Waal. "Wafer defect patterns recognition based on OPTICS and multi-label classification." *2016 IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)*. IEEE, 2016.
 
