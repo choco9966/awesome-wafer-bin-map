@@ -45,8 +45,6 @@
 - Yu, Naigong, Qiao Xu, and Honglu Wang. "Wafer defect pattern recognition and analysis based on convolutional neural network." *IEEE Transactions on Semiconductor Manufacturing* 32.4 (2019): 566-573.
 - Lee, C. H., and S. B. Kim. "Identifying wafer defect patterns by variational autoencoder and SegNet." Journal of the Korean Institute of Industrial Engineers 45.2 (2019): 117-124.
 
-
-
 ## [2018]
 
 - J. Kim, Y. Lee, and H. Kim, “Detection and clustering of mixed-type defect patterns in wafer bin maps,” IISE Transactions, vol. 50, pp. 99–111, 2 2018.
@@ -63,9 +61,22 @@
 - Taha, Kamal, Khaled Salah, and Paul D. Yoo. "Clustering the dominant defective patterns in semiconductor wafer maps." *IEEE Transactions on Semiconductor Manufacturing* 31.1 (2017): 156-165.
 - Dong, Hang, Nan Chen, and Kaibo Wang. "Wafer yield prediction using derived spatial variables." *Quality and Reliability Engineering International* 33.8 (2017): 2327-2342.
 
-
-
 ## [2016]
 
 - Fan, Mengying, Qin Wang, and Ben van der Waal. "Wafer defect patterns recognition based on OPTICS and multi-label classification." *2016 IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)*. IEEE, 2016.
 
+## [2014] 
+
+- Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." *European conference on computer vision*. Springer, Cham, 2014
+
+## [2011] 
+
+- T. Yuan, W. Kuo, and S. J. Bae, “Detection of spatial defect patterns generated in semiconductor fabrication processes,” IEEE Trans. Semicond. Manuf., vol. 24, no. 3, pp. 392–403, Aug. 2011
+
+## [2008] 
+
+- C.-H. Wang, “Recognition of semiconductor defect patterns using spatial filtering and spectral clustering,” Expert Syst. Appl., vol. 34, no. 3, pp. 1914–1923, 2008
+
+## [2006] 
+
+- C.-H. Wang, S.-J. Wang, and W.-D. Lee, “Automatic identification of spatial defect patterns for semiconductor manufacturing,” Int. J. Prod. Res., vol. 44, no. 23, pp. 5169–5185, 2006.
