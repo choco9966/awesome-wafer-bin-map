@@ -22,6 +22,7 @@
    - H. Lee and H. Kim, “Semi-supervised multi-label learning for classification of wafer bin maps with mixed-type defect patterns,” IEEE Transactions on Semiconductor Manufacturing, vol. 33, no. 4, pp. 653–662, 2020.
    - Shim, Jaewoong, Seokho Kang, and Sungzoon Cho. "Active learning of convolutional neural network for cost-effective wafer map pattern classification." *IEEE Transactions on Semiconductor Manufacturing* 33.2 (2020): 258-266.
    - H. Kahng and S. B. Kim, "Self-Supervised Representation Learning for Wafer Bin Map Defect Pattern Classification," in IEEE Transactions on Semiconductor Manufacturing, vol. 34, no. 1, pp. 74-86, Feb. 2021, doi: 10.1109/TSM.2020.3038165.
+   - Shim, Jaewoong, Seokho Kang, and Sungzoon Cho. "Active cluster annotation for wafer map pattern classification in semiconductor manufacturing." Expert Systems with Applications (2021): 115429.
 
 4. Light-Weighted Model
 
@@ -59,7 +60,6 @@
 - Hwang, Jonghyun, and Heeyoung Kim. "Variational deep clustering of wafer map patterns." *IEEE Transactions on Semiconductor Manufacturing* 33.3 (2020): 466-475.
 - Lee, Jea Hoon, Il-Chul Moon, and Rosy Oh. "Similarity Search on Wafer Bin Map through Nonparametric and Hierarchical Clustering." IEEE Transactions on Semiconductor Manufacturing (2021).
 - Kim, Donghwa, and Pilsung Kang. "Dynamic Clustering for Wafer Map Patterns using Self-Supervised Learning on Convolutional Autoencoders." IEEE Transactions on Semiconductor Manufacturing (2021).
-- Shim, Jaewoong, Seokho Kang, and Sungzoon Cho. "Active cluster annotation for wafer map pattern classification in semiconductor manufacturing." Expert Systems with Applications (2021): 115429.
 - Park, Seyoung, Jaeyeon Jang, and Chang Ouk Kim. "Discriminative feature learning and cluster-based defect label reconstruction for reducing uncertainty in wafer bin map labels." Journal of Intelligent Manufacturing 32.1 (2021): 251-263.
 - Ezzat, Ahmed Aziz, et al. "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-Type Spatial Pattern Recognition in Wafer Bin Maps." IEEE Transactions on Semiconductor Manufacturing 34.2 (2021): 194-206.
 
